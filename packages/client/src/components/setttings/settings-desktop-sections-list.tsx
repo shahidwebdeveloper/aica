@@ -21,7 +21,9 @@ const SettingsDesktopSectionsList = ({
             className="size-20"
             fallBackClassName="text-xl"
           />
-          <h6 className="truncate text-md font-semibold">Khatibullah Rahel</h6>
+          <h6 className="truncate text-md font-semibold">
+            Shahidullah Rasooli
+          </h6>
         </div>
 
         <ScrollArea className="h-full max-h-[67dvh] flex flex-col">

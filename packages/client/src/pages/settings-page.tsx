@@ -17,12 +17,12 @@ const SettingsPage = () => {
 
   const [data, setData] = useState<SettingsData>({
     profile: {
-      name: 'Rahel',
+      name: 'Rasooli',
       bio: m.advisor_title(),
     },
     account: {
-      username: 'rahel',
-      email: 'rahel@example.com',
+      username: 'rasooli',
+      email: 'rasooli@example.com',
     },
     security: {
       twoFactorAuth: false,
